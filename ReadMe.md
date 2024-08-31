@@ -1,6 +1,6 @@
 #### To verify that Kafka and Zookeeper are running, you can use the following commands:
 
-Check the running containers:
+Check the running containers :
 
 `docker ps`
 
